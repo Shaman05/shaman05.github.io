@@ -1,0 +1,11 @@
+.tmp
+*.log
+.DS_STORE
+.idea
+
+config.local.js
+node_modules
+log
+
+.sass-cache
+.build
